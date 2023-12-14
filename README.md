@@ -51,9 +51,10 @@ Questions:
 ## 7. Reverse a String:
 
 **Task: Create a program that reverses a given string.**
+
 Questions:
-How would you handle input validation for the string?
-Can you implement the reversal without using built-in reverse functions?
+1. How would you handle input validation for the string?
+2. Can you implement the reversal without using built-in reverse functions?
 
 ## 8. Even-Odd Number Checker:
 
